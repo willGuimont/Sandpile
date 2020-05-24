@@ -1,2 +1,2 @@
 # Sandpile
-[](sandpile.png)
+![](sandpile.png)
