@@ -1,1 +1,2 @@
 # Sandpile
+[](sandpile.png)
